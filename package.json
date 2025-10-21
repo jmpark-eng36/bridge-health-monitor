@@ -1,0 +1,11 @@
+{
+  "name": "bridge-health-monitor",
+  "version": "0.1.0",
+  "description": "CLI tool to monitor bridge validator health",
+  "main": "src/index.js",
+  "scripts": {"start": "node src/index.js", "test": "node test/basic.test.js"},
+  "keywords": ["bridge","monitor","multisig","validator"],
+  "author": "James Park",
+  "license": "MIT",
+  "dependencies": {"ethers": "^6.9.0", "chalk": "^4.1.2", "commander": "^11.1.0"}
+}
