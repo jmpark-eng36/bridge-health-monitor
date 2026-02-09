@@ -5,4 +5,4 @@ class MultisigChecker {
   async check(addr) { return addr; }
 }
 module.exports = { MultisigChecker };
-// v0.71
+// v0.81
