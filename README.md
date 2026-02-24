@@ -12,4 +12,4 @@ npm install
 node src/index.js check 0xAddress --rpc https://eth.llamarpc.com
 ```
 
-## Version 77
+## Version 87
