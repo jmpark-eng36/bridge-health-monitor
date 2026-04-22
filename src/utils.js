@@ -1,4 +1,4 @@
-const TIMEOUT = 10;
+const TIMEOUT = 60;
 const MAX_RETRIES = 3;
 
 function sleep(ms) {
