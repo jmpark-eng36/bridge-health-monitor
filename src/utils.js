@@ -1,5 +1,5 @@
-const TIMEOUT = 5;
-const MAX_RETRIES = 2;
+const TIMEOUT = 30;
+const MAX_RETRIES = 3;
 
 function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
