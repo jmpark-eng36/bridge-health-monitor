@@ -1,6 +1,6 @@
 # bridge-health-monitor
 
-Simple and efficient data processing pipeline.
+Fast and reliable request handling library.
 
 ## Installation
 
